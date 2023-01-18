@@ -1,0 +1,173 @@
+﻿@model ProductPostDto
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container" style="background-color:#DCDCDC">
+    <div class="card-body row">
+        <h1 style="text-align:center; margin-bottom:20px;">Servis Yarat</h1>
+        <form method="post" class="forms-sample" enctype="multipart/form-data">
+            <div class="alert alert-danger" asp-validation-summary="ModelOnly"></div>
+
+            <div id="form-body" class="row">
+                <div style="width:50%;">
+                    <label style="margin-bottom:10px; font-size:20px;" asp-for="@Model.Name">Name</label>
+                    <input asp-for="@Model.Name" type="text" class="form-control" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.Name"></span>
+                </div>
+                <div style="width:50%;">
+                    <label style="margin-bottom:10px; font-size:20px;" asp-for="@Model.FormFile">Name</label>
+                    <input asp-for="@Model.FormFile" accept="Image\*" class="form-control" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.FormFile"></span>
+                </div>
+                <div style="width:50%;">
+                    <label style="margin-bottom:10px; font-size:20px;" asp-for="@Model.Title">Title</label>
+                    <input asp-for="@Model.Title" class="form-control" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.Title"></span>
+                </div>
+                <div style="width:50%;">
+                    <label style="margin-bottom:10px; font-size:20px;" asp-for="@Model.Title">Description</label>
+                    <input asp-for="@Model.Description" class="form-control" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.Description"></span>
+                </div>
+
+                <div style="width:50%;">
+                    <label style="margin-bottom:10px; font-size:20px;" asp-for="@Model.Information">Information</label>
+                    <input asp-for="@Model.Information" class="form-control" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.Information"></span>
+                </div>
+                <div style="width:50%;">
+                    <label style="margin-bottom:10px; font-size:20px;" asp-for="@Model.Price">Price</label>
+                    <input asp-for="@Model.Price" class="form-control" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.Price"></span>
+                </div>
+                <div style="width:50%;">
+                    <label style="margin-bottom:10px; font-size:20px;" asp-for="@Model.InStock">InStock</label>
+                    <input asp-for="@Model.InStock" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.InStock"></span>
+                </div>
+                <div style="width:50%;">
+                    <select asp-for="CategoryId" class="form-control mt-3">
+                        @foreach (var item in ViewBag.Categories)
+                        {
+                            <option value="@item.Id">@item.Name</option>
+                        }
+                    </select>
+                </div>
+
+                <div style="width:50%;">
+                    <select asp-for="DiscountId" class="form-control mt-3">
+                        <option value="@null">Chooce discount</option>
+                        @foreach (var item in ViewBag.Discounts)
+                        {
+                            <option value="@item.Id">@item.Percent</option>
+                        }
+                    </select>
+                </div>
+
+                <div id="sizes">
+
+                    <div class="size-Increase" style="width:50%;">
+                        <select class="sizeclone form-control mt-3" data-val="true" data-val-required="The SizeIds field is required." name="SizeIds">
+                            <option value="@null">Chooce Size</option>
+                            @foreach (var item in ViewBag.Sizes)
+                            {
+                                <option value="@item.Id">@item.Value</option>
+                            }
+                        </select>
+
+
+                        <select class="color form-control mt-3" data-val="true" data-val-required="The SizeIds field is required." name="ColorIds">
+                            <option value="@null">Chooce Color</option>
+                            @foreach (var item in ViewBag.Colors)
+                            {
+                                <option value="@item.Id">@item.Value</option>
+                            }
+                        </select>
+
+                        <input asp-for='Counts' class="form-control mt-3" placeholder="Count">
+
+                    </div>
+
+                </div>
+                <i class=" increase fa-solid fa-plus"></i>
+
+
+
+
+            </div>
+            <div class="col-md-12 mt-3">
+                <a class="btn btn-dark" asp-controller="Service" asp-action="index"><i class="fas fa-undo"></i> Back</a>
+                <button class="btn btn-primary" type="submit">Create</button>
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts{
+
+    <script>
+
+        const sizeIncrease = document.querySelector(".size-Increase")
+
+        const increase = document.querySelectorAll(".increase")
+
+        let color = document.querySelector(".color");
+         
+        increase.forEach(inc => {
+            inc.addEventListener("click", () => {
+
+                let sizes = document.getElementById("sizes")
+                let objs;
+                let div=document.createElement("div");
+                div.innerHTML=color.outerHTML;
+                fetch("/manage/size/GetSize")
+                    .then(res => res.json())
+                    .then(data => {
+                        let data2 = "";
+                        data.forEach(siz => {
+                            data2 += `<option value="${siz.id}">${siz.value}</option>`
+                        })
+
+                        sizes.innerHTML += `
+                                                        <div class="size-Increase" style="width:50%;">
+                                                                <select class="sizeclone form-control mt-3" data-val="true" data-val-required="The SizeIds field is required."  name="SizeIds">
+                                                                    <option value="">Chooce Size</option>
+                                                                         ${data2}
+                                                                </select>
+
+                                                                ${div.outerHTML}
+
+                                                                <input class="form-control mt-3" placeholder="Count" type="text" data-val="true" data-val-required="The Counts field is required." id="Counts" name="Counts" value="">
+
+                                                            <i class="rmv fa-solid fa-minus"></i>
+                                                            </div>
+
+                                                `
+
+                                                let rmvs=document.querySelectorAll(".rmv");
+
+
+                                                rmvs.forEach(rm=>{
+                                                    rm.addEventListener("click",(e)=>{
+                                                       rm.parentElement.remove();
+                                                    })
+                                                })
+
+                    })
+
+
+
+
+
+
+            })
+        })
+
+
+    </script>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js" integrity="sha512-37T7leoNS06R80c8Ulq7cdCDU5MNQBwlYoy1TX/WUsLFC2eYNqtKlV0QjH7r8JpG/S0GUMZwebnVFLPd6SU5yg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js" integrity="sha512-o6XqxgrUsKmchwy9G5VRNWSSxTS4Urr4loO6/0hYdpWmFUfHqGzawGxeQGMDqYzxjY9sbktPbNlkIQJWagVZQg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+}
+

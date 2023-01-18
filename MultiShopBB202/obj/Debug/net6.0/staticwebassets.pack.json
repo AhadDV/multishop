@@ -1,0 +1,1025 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MultiShopBB202.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MultiShopBB202.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\05abd463-4021-45ef-9036-b28b40c7a3a7WhatsApp Image 2023-01-02 at 22.29.35.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\05abd463-4021-45ef-9036-b28b40c7a3a7WhatsApp Image 2023-01-02 at 22.29.35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\179e8351-995e-46cb-9555-a9238e7011f3Untitled.png",
+      "PackagePath": "staticwebassets\\assets\\img\\179e8351-995e-46cb-9555-a9238e7011f3Untitled.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\2d0075ca-67f3-4bda-b351-1845c5ec6c171671884401532 (1).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\2d0075ca-67f3-4bda-b351-1845c5ec6c171671884401532 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\508f4460-fa80-46b0-ac1b-0793c922c6751671884401532 (1).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\508f4460-fa80-46b0-ac1b-0793c922c6751671884401532 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\5b6e8e4c-d183-48e1-9602-6cf3286c44491671884401532 (4).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\5b6e8e4c-d183-48e1-9602-6cf3286c44491671884401532 (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\66448fad-c597-413c-9487-fe50bb3364fb1671884401532 (3).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\66448fad-c597-413c-9487-fe50bb3364fb1671884401532 (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\693e26dc-69ec-498d-bb6c-82315c27f1e5WhatsApp Image 2023-01-02 at 22.29.35.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\693e26dc-69ec-498d-bb6c-82315c27f1e5WhatsApp Image 2023-01-02 at 22.29.35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\70182d6c-8143-4cd6-b702-6631e30099951671884401532 (3).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\70182d6c-8143-4cd6-b702-6631e30099951671884401532 (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\7d02dd8d-c8ca-4443-9a41-c5a5f37275ca1671884401532 (2).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\7d02dd8d-c8ca-4443-9a41-c5a5f37275ca1671884401532 (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\87aacc6a-57f3-4a1d-97dd-4c2d37305e211671884401532 (2).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\87aacc6a-57f3-4a1d-97dd-4c2d37305e211671884401532 (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\9fcdb143-73a5-4622-9ed1-f85fd8d718441671884401532 (3).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\9fcdb143-73a5-4622-9ed1-f85fd8d718441671884401532 (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\ce84e770-6a8a-4787-9eba-8af458793fdeUntitled.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ce84e770-6a8a-4787-9eba-8af458793fdeUntitled.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\dbd45236-65c0-4114-aca1-3f465180555fUntitled.png",
+      "PackagePath": "staticwebassets\\assets\\img\\dbd45236-65c0-4114-aca1-3f465180555fUntitled.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\dea8034d-b8b5-41fa-9afa-fc136488806f1671884401532 (1).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dea8034d-b8b5-41fa-9afa-fc136488806f1671884401532 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\ee3c87ec-1c0c-4c8c-80f0-203ab6bf20ca1671884401532 (1).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ee3c87ec-1c0c-4c8c-80f0-203ab6bf20ca1671884401532 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\f745730e-4143-46cb-b376-4b016865203f1671884401532 (2).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\f745730e-4143-46cb-b376-4b016865203f1671884401532 (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\offer-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\offer-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\offer-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\offer-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\payments.png",
+      "PackagePath": "staticwebassets\\assets\\img\\payments.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\product-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\vendor-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\vendor-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\vendor-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\vendor-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\vendor-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\vendor-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\vendor-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\img\\vendor-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\mail\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\assets\\mail\\contact.php"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\assets\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ahad\\Desktop\\MultiShopBB202\\MultiShopBB202\\wwwroot\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MultiShopBB202.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MultiShopBB202.props",
+      "PackagePath": "build\\MultiShopBB202.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MultiShopBB202.props",
+      "PackagePath": "buildMultiTargeting\\MultiShopBB202.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MultiShopBB202.props",
+      "PackagePath": "buildTransitive\\MultiShopBB202.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,27 @@
+﻿@model SettingGetDto
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="container">
+    <table class="table table-sm">
+        <thead>
+            <tr>
+                <th scope="col">PhoneNUmber</th>
+                <th scope="col">Adress</th>
+                <th scope="col">Email</th>
+                <th scope="col">Edit</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+             
+                <th>@Model.PhoneNumber</th>
+                <th>@Model.Adress</th>
+                <th>@Model.Email</th>
+                <td><a asp-controller="setting" asp-action="Update" asp-route-id="@Model.Id"><i class="fas fa-edit text text-primary"></i></a></td>
+            </tr>
+        </tbody>
+    </table>
+
+</div>
+

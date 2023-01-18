@@ -1,0 +1,35 @@
+﻿@model List<CategoryGetDto>
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div class="container">
+    <table class="table table-sm">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Image</th>
+                <th scope="col">Name</th>
+          
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (CategoryGetDto dto in Model)
+            {
+                    <tr>
+                        <th scope="row">@dto.Id</th>
+                        <th scope="row"><img src="~/assets/img/@dto.IMage" style="object-fit: contain; width: 100px; height: 30px;" /></th>
+                        <th>@dto.Name</th>
+
+                        <td><a asp-controller="Category" asp-action="Update" asp-route-id="@dto.Id"><i class="fas fa-edit text text-primary"></i></a></td>
+                        <td><a class=" delete-item" asp-controller="category" asp-action="remove" asp-route-id="@dto.Id"><i class="fas fa-trash text text-danger"></i></a></td>
+                    </tr>
+            }
+        </tbody>
+    </table>
+    <div>
+        <a style="display: block; text-decoration: none; color: white; width: 100%; height: 100%" asp-controller="category" asp-action="create"> <div style="width:100%; " class="btn btn-outline-success">Category Create </div></a>
+    </div>
+
+</div>

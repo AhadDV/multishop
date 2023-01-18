@@ -1,0 +1,38 @@
+﻿@model UserGetDto
+@{
+    ViewData["Title"] = "MyProfile";
+}
+
+<div class="register-area pt-150 pb-150">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3 text-center">
+                <div class="login">
+                    <div class="login-form-container">
+                        <div class="login-text">
+                            <h2> Register</h2>
+
+                        </div>
+                        <div class="login-form">
+                            <div class="alert alert-danger" asp-validation-summary="ModelOnly"></div>
+                            <form method="post">
+
+                                <input asp-for="FullName" placeholder="FullName">
+                                <span class="text text-danger" asp-validation-for="FullName"></span>
+
+                                <input asp-for="UserName" placeholder="UserName">
+                                <span class="text text-danger" asp-validation-for="UserName"></span>
+
+                                <input asp-for="Email" placeholder="Email">
+                                <span class="text text-danger" asp-validation-for="Email"></span>
+
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

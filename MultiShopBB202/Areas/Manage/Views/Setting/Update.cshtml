@@ -1,0 +1,47 @@
+﻿@model SettingUpdateDto
+@{
+    ViewData["Title"] = "Update";
+}
+
+<div style="background-color:gainsboro" class="container">
+    <div class="card-body row">
+        <div class="text text-danger" asp-validation-summary="ModelOnly"></div>
+        <form method="post" class="forms-sample" enctype="multipart/form-data">
+            <h1 class="mb-5">MultiShop.az Setting</h1>
+
+
+
+            <div class="row">
+                <div class="col-md-6 mb-2 ">
+                    <label asp-for="@Model.settingPostDto.PhoneNumber">PhoeNumber </label>
+                    <input asp-for="@Model.settingPostDto.PhoneNumber" value="@Model.settingGetDto.PhoneNumber" type="text" class="form-control">
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.settingPostDto.PhoneNumber"></span>
+                </div>
+
+              <div class="col-md-6 mb-2 ">
+                    <label asp-for="@Model.settingPostDto.Email">Email </label>
+                    <input asp-for="@Model.settingPostDto.Email" value="@Model.settingGetDto.Email" type="text" class="form-control">
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.settingPostDto.Email"></span>
+                </div>
+
+               <div class="col-md-6 mb-2 ">
+                    <label asp-for="@Model.settingPostDto.Adress">Adress </label>
+                    <input asp-for="@Model.settingPostDto.Adress" value="@Model.settingGetDto.Adress" type="text" class="form-control">
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.settingPostDto.Adress"></span>
+                </div>
+            </div>
+
+
+            <div class="col-md-12 mt-3">
+                <a class="btn btn-dark" asp-controller="setting" asp-action="index"><i class="fas fa-undo"></i> Back</a>
+                <button type="submit" class="btn btn-primary">Save Changes</button>
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js" integrity="sha512-37T7leoNS06R80c8Ulq7cdCDU5MNQBwlYoy1TX/WUsLFC2eYNqtKlV0QjH7r8JpG/S0GUMZwebnVFLPd6SU5yg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js" integrity="sha512-o6XqxgrUsKmchwy9G5VRNWSSxTS4Urr4loO6/0hYdpWmFUfHqGzawGxeQGMDqYzxjY9sbktPbNlkIQJWagVZQg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+}
+
+

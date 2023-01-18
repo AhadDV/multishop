@@ -1,0 +1,28 @@
+﻿@model List<DiscountGetDto>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container">
+    <table class="table table-sm">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Percent</th>
+       
+            </tr>
+        </thead>
+        <tbody>
+           @foreach (var item in Model)
+            {
+                <tr>
+
+                    <th>@item.Id</th>
+                    <th>@item.Percent</th>
+                    <td><a asp-controller="Discount" asp-action="Update" asp-route-id="@item.Id"><i class="fas fa-edit text text-primary"></i></a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
